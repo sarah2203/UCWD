@@ -17,9 +17,11 @@
 	</head>
 	
 	<body background = "http://hdwallpaperbackgrounds.net/wp-content/uploads/2016/08/Black-Background-12.jpg" >
-		
+		<article id="firstarticle">
+		<header class="articleheader">
 		<h1> Ethical Hacking</h1>
 		<p> <strong> <i> Ethical hacking can be considered a controversial topic...</i> </strong> </p>
+		</header>
 		
 			<iframe width="1020" height="480" src="https://www.youtube.com/embed/gEOYhPg3n-c"></iframe>
 			
@@ -34,6 +36,8 @@
 		<p>From looking at these types of hacking, he mainly talks about mainly malicious types of hacking. Ethical hackers are there for good 
 		and even though they may perform those kind of attacks, the courses sets them apart fom other hackers as they are useing potentially
 		malicious skills for the good of companies. The video is useful as it talks about professional roles and look further into this career choice.</p>
+		<footer> <p> Article Footer </p> <footer>
+		</article>
 		</font>
 		</center>		
 	</body>
