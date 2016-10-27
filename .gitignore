@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<font color="white">
+<nav>
+<center>
+<font size="6"><b>||<a href="/html/">Home Page</a> ||
+<b><a href="/css/">News Page</a>||
+<b><a href="/js/">Activity Page</a>||
+<b><a href="/js/">Club Shop</a> ||
+<b><a href="/js/">Sign-up</a>||</font></img>
+</center>
+</nav>
+	<center>
+	
+	<head>
+		<h1>NEWS</h1>
+	</head>
+	
+	<body background = "http://hdwallpaperbackgrounds.net/wp-content/uploads/2016/08/Black-Background-12.jpg" >
+		
+		<h1> Ethical Hacking</h1>
+		<p> <strong> <i> Ethical hacking can be considered a controversial topic...</i> </strong> </p>
+		
+			<iframe width="1020" height="480" src="https://www.youtube.com/embed/gEOYhPg3n-c"></iframe>
+			
+		<p> Here we can infer further what this video is talking about. Here he describes the types of hackers that there are. 
+		The types of the attacks that he describes, used by the black hat hackers, can also be used by the ethical hacker, in order to
+		help them carry out theor job effectively. </p>
+		
+		<p> The boy in the browser attack is very similar to phishing, and the information that th ehacker is gaining, will be rerouted to their 
+		sites. He explains that hackers don't necessarilly sit behind the computer but actually network with people to find out more information.
+		"hackers normally exploit", is one ke term he uss, which is basically taling about code that sits in the background.</p>
+		
+		<p>From looking at these types of hacking, he mainly talks about mainly malicious types of hacking. Ethical hackers are there for good 
+		and even though they may perform those kind of attacks, the courses sets them apart fom other hackers as they are useing potentially
+		malicious skills for the good of companies. The video is useful as it talks about professional roles and look further into this career choice.</p>
+		</font>
+		</center>		
+	</body>
+</html>
