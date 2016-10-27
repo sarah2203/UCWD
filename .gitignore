@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html>
+<html lang = "en">
+	
 <font color="white">
 <nav>
 <center>
@@ -10,13 +12,15 @@
 <b><a href="/js/">Sign-up</a>||</font></img>
 </center>
 </nav>
+	<meta charset="UTF-8">
 	<center>
-	
+
 	<head>
-		<h1>NEWS</h1>
+		<h1 id="pageheader">NEWS</h1>
 	</head>
-	
+		
 	<body background = "http://hdwallpaperbackgrounds.net/wp-content/uploads/2016/08/Black-Background-12.jpg" >
+		<section id="articlesection">
 		<article id="firstarticle">
 		<header class="articleheader">
 		<h1> Ethical Hacking</h1>
@@ -36,9 +40,30 @@
 		<p>From looking at these types of hacking, he mainly talks about mainly malicious types of hacking. Ethical hackers are there for good 
 		and even though they may perform those kind of attacks, the courses sets them apart fom other hackers as they are useing potentially
 		malicious skills for the good of companies. The video is useful as it talks about professional roles and look further into this career choice.</p>
-		<footer> <p> Article Footer </p> <footer>
+		<footer> <p> End of Article 1</p> <footer>
 		</article>
-		</font>
-		</center>		
+		</section>
+		
+		<article id="article2">
+		<header class="articleheader">
+		<h3> Other Articles </h3> <p> Sources such as Google Scholar and BBC News can provide up to date information on Ethical Hacking and other topics relating. </p> </header>
+		<p><a href=https://scholar.google.co.uk/">Google Scholar</a></p>
+		<p><a href=http://www.bbc.co.uk/news>BBC News</a></p>
+		<p> Other useful links and articles are listed below: </p>
+		<p><a href=https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/>Ethical Hacking Certification</a></p>
+		
+	<footer> <p>End of Article 2</p> </footer>
+		
+		</article>
+				
+	<aside> 
+		<h4> Aside Header </h4> 
+		<p> Aside Content</p>
+		<footer> <p>Aside footer </p> </footer>
+	</aside>
+	
+	</section>
 	</body>
+	</meta>
+	</center>
 </html>
